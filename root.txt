@@ -1,0 +1,5 @@
+javascript-styleguide: javascript-styleguide-briefing-2024-11-10-08-57-44.thisismy.json
+json-styleguide: json-styleguide-briefing-2024-11-10-08-57-21.thisismy.json
+chatgpt-api-chat-and-dalle: chatgpt-api-chat-and-dalle-briefing-2024-11-10-08-56-49.thisismy.json
+
+
