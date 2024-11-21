@@ -6,3 +6,4 @@ json-styleguide-briefing: json-styleguide-briefing-2024-11-10-08-57-21.thisismy.
 targeted-page-with-content-diversity: targeted-page-with-content-diversity-2024-11-13-13-16-43.thisismy.json
 chatgpt-and-custom-gpt-prompting: chatgpt-and-custom-gpt-prompting-2024-11-21-16-07-19.thisismy.json
 customgpts-with-actions: customGPTs-with-actions-2024-11-21-16-08-36.thisismy.json
+openapi: openapi-310-specification-2024-11-21-16-24-22.thisismy.json
